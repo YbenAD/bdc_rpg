@@ -44,3 +44,4 @@ class Personnage:
         self.points_de_vie -= degats        
         print(f"{self.nom} subit {degats} points de degats.")
           
+#commentaire tres stupide
